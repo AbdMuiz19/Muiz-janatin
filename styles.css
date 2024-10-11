@@ -1,0 +1,39 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0e4d7;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    color: #b34d4d;
+}
+
+.quote-card {
+    background-color: #ffffff;
+    padding: 20px;
+    margin: 20px 0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.quote-card img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.quote-card p {
+    font-size: 18px;
+    color: #333;
+    margin-top: 10px;
+    line-height: 1.5;
+}
